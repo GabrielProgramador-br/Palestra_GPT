@@ -1,0 +1,9 @@
+streamlit
+openai>=1.0.0
+python-dotenv
+pdfplumber
+python-docx
+chromadb
+duckdb
+pysqlite3-binary
+tqdm
